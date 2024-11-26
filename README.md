@@ -1,4 +1,4 @@
-# gcp-resource-hierarchy
+# Google Cloud :: Resource Hierarchy
  Create Google Cloud GCP Folder - Project Resource hierarchy in Terraform using modules
 
  This module helps create several folders under the same parent.
